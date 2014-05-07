@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FFC20634-0EEB-4FE0-BCA9-8615FC7F0503</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Exercie3Temperature</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8F167570-B5DA-4BA5-BF21-AB0F1C325C02</key>
+		<string>https://github.com/KBryan/LambtonObjCCourse.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Exercie3Temperature/Exercie3Temperature.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8F167570-B5DA-4BA5-BF21-AB0F1C325C02</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/KBryan/LambtonObjCCourse.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8F167570-B5DA-4BA5-BF21-AB0F1C325C02</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8F167570-B5DA-4BA5-BF21-AB0F1C325C02</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LambtonObjCCourseAnshuli</string>
+		</dict>
+	</array>
+</dict>
+</plist>
