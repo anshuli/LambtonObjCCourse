@@ -10,6 +10,7 @@
 		7F874C32191DA784008F6D31 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7F874C31191DA784008F6D31 /* Foundation.framework */; };
 		7F874C35191DA784008F6D31 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F874C34191DA784008F6D31 /* main.m */; };
 		7F874C39191DA784008F6D31 /* rectangle.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 7F874C38191DA784008F6D31 /* rectangle.1 */; };
+		7F874C41191DA7A0008F6D31 /* rectangle1.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F874C40191DA7A0008F6D31 /* rectangle1.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,8 @@
 		7F874C34191DA784008F6D31 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		7F874C37191DA784008F6D31 /* rectangle-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "rectangle-Prefix.pch"; sourceTree = "<group>"; };
 		7F874C38191DA784008F6D31 /* rectangle.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = rectangle.1; sourceTree = "<group>"; };
+		7F874C3F191DA7A0008F6D31 /* rectangle1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = rectangle1.h; sourceTree = "<group>"; };
+		7F874C40191DA7A0008F6D31 /* rectangle1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = rectangle1.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,6 +51,8 @@
 		7F874C25191DA784008F6D31 = {
 			isa = PBXGroup;
 			children = (
+				7F874C3F191DA7A0008F6D31 /* rectangle1.h */,
+				7F874C40191DA7A0008F6D31 /* rectangle1.m */,
 				7F874C33191DA784008F6D31 /* rectangle */,
 				7F874C30191DA784008F6D31 /* Frameworks */,
 				7F874C2F191DA784008F6D31 /* Products */,
@@ -140,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7F874C35191DA784008F6D31 /* main.m in Sources */,
+				7F874C41191DA7A0008F6D31 /* rectangle1.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

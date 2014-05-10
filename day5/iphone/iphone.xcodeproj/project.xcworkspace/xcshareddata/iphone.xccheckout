@@ -5,16 +5,16 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>89C09254-E6D6-4644-BFA9-7537A5F27660</string>
+	<string>29296D3A-42D5-48BD-91B9-445AFC30323E</string>
 	<key>IDESourceControlProjectName</key>
-	<string>rectangle</string>
+	<string>iphone</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>C89921D7-7BFE-4C4C-A606-B938466B9630</key>
 		<string>https://github.com/anshuli/LambtonObjCCourse.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>day5/rectangle/rectangle.xcodeproj/project.xcworkspace</string>
+	<string>day5/iphone/iphone.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>C89921D7-7BFE-4C4C-A606-B938466B9630</key>
