@@ -5,7 +5,7 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>CB9766EE-3F94-4C6C-967D-B8DB50CFCEE3</string>
+	<string>A8D8F436-E85E-4584-A26C-88CC766300A7</string>
 	<key>IDESourceControlProjectName</key>
 	<string>day6Number</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -34,7 +34,7 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>EA30EA51-06D5-450F-9A03-A10797FD56B1</string>
 			<key>IDESourceControlWCCName</key>
-			<string>day6LeapYear</string>
+			<string>day6Number</string>
 		</dict>
 	</array>
 </dict>

@@ -13,8 +13,19 @@ int main(int argc, const char * argv[])
 
     @autoreleasepool {
         
-        // insert code here...
-        NSLog(@"Hello, World!");
+        int number , sign ;
+        
+        NSLog(@"please type in a number: ");
+        scanf("%i" , &number);
+        
+        if(number<0)
+            sign = -1;
+        else if(number ==0)
+        sign=0;
+        else
+            sign = 1;
+        
+        NSLog(@"sign= %i", sign);
         
     }
     return 0;
