@@ -21,6 +21,7 @@
 		7F874C70191DAF6B008F6D31 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7F874C52191DAF6B008F6D31 /* UIKit.framework */; };
 		7F874C78191DAF6B008F6D31 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 7F874C76191DAF6B008F6D31 /* InfoPlist.strings */; };
 		7F874C7A191DAF6B008F6D31 /* iphoneTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F874C79191DAF6B008F6D31 /* iphoneTests.m */; };
+		7F874C85191DAF88008F6D31 /* rectangle.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F874C84191DAF88008F6D31 /* rectangle.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,8 @@
 		7F874C75191DAF6B008F6D31 /* iphoneTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "iphoneTests-Info.plist"; sourceTree = "<group>"; };
 		7F874C77191DAF6B008F6D31 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		7F874C79191DAF6B008F6D31 /* iphoneTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iphoneTests.m; sourceTree = "<group>"; };
+		7F874C83191DAF88008F6D31 /* rectangle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = rectangle.h; sourceTree = "<group>"; };
+		7F874C84191DAF88008F6D31 /* rectangle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = rectangle.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +85,8 @@
 		7F874C42191DAF6B008F6D31 = {
 			isa = PBXGroup;
 			children = (
+				7F874C83191DAF88008F6D31 /* rectangle.h */,
+				7F874C84191DAF88008F6D31 /* rectangle.m */,
 				7F874C54191DAF6B008F6D31 /* iphone */,
 				7F874C73191DAF6B008F6D31 /* iphoneTests */,
 				7F874C4D191DAF6B008F6D31 /* Frameworks */,
@@ -253,6 +258,7 @@
 				7F874C65191DAF6B008F6D31 /* XYZViewController.m in Sources */,
 				7F874C5F191DAF6B008F6D31 /* XYZAppDelegate.m in Sources */,
 				7F874C5B191DAF6B008F6D31 /* main.m in Sources */,
+				7F874C85191DAF88008F6D31 /* rectangle.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
