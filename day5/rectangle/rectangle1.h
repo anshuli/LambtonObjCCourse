@@ -11,8 +11,7 @@
 @interface rectangle1 : NSObject{
     double width;
     double length;
-}
--(double) length;
+}-(double) length;
 -(double) width;
 -(void) setLength: (double) l;
 -(void) setWidth: (double) w;
